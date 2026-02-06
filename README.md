@@ -4,6 +4,7 @@ Hi There👋, I'm
 
 One of the homosapiens 🔭 continously adapting with new technologies and challenges to build something awesome for self and peoples.
 
+![](https://komarev.com/ghpvc/?username=yourchocomate)
 
 ### 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yourchocomate) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourchocomate) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourchocomate) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13420043) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yourchocomate) 
@@ -15,18 +16,15 @@ One of the homosapiens 🔭 continously adapting with new technologies and chall
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Vs Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourchocomate&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourchocomate&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourchocomate&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yourchocomate&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=yourchocomate&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yourchocomate&layout=compact&theme=radical)
 
 ### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourchocomate&no-frame=false&margin-w=8&margin-h=8)
+![](https://github-profile-trophy-fast.vercel.app/?username=yourchocomate&no-frame=false&margin-w=8&margin-h=8&theme=radical)
 
 ### ✍️ Quote to make your day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 And Some Laugh
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yourchocomate&icon=0&color=0)](https://visitcount.itsvg.in)
